@@ -2,6 +2,7 @@
 #### Custom-built PDF checklists for X-Plane addons, designed to fit nicely on Avitab with minimal fuss.
 ## Current Checklists:
 * HotStart TBM900
+* Leading Edge Simulations Saab 340A
 * IXEG 737-300
 * FlyJSim 737-200
 * FlyJSim 727
