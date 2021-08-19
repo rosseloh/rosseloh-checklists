@@ -1,4 +1,4 @@
-## rosseloh-checklists
+# rosseloh-checklists
 #### Custom-built PDF checklists for X-Plane addons, designed to fit nicely on Avitab with minimal fuss.
 ## Current Checklists:
 * HotStart TBM900
