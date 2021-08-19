@@ -1,9 +1,14 @@
 ## rosseloh-checklists
 #### Custom-built PDF checklists for X-Plane addons, designed to fit nicely on Avitab with minimal fuss.
+## Current Checklists:
+* HotStart TBM900
+* IXEG 737-300
+* FlyJSim 737-200
+* FlyJSim 727
+* JRollon SF260
 
-Initially, this will focus on one type of checklist - the true "checklist", not a full procedures list. This is a list, usually fairly short, of items that you would check are complete at various stages of a flight, after performing your flows to complete said items. In the future this may be expanded to include procedures lists as well.
-
-It will also focus primarily on airplanes that I own and fly, as these are the ones I'm actually interested in having checklists for.
+## What's the point?
+In my humble opinion, too many sim pilots create "checklists" that they then share, which are far, FAR more than checklists. These pilots tend to create full procedure lists, including such lovely details as "hold key to START" which any pilot should eventually know how to do when they're told to "start the engine". And there's nothing wrong with these lists! But they're too wordy for my purposes - I want something I can use to actually check my work, after I've already done it - like the real pilots do. The normal after-start flow in a 737-300 includes connecting the engine generators to the bus, setting the ignition to continuous, setting the pressurization controller to Flight mode, turning off the APU bleed and the APU itself if not required, checking various systems for proper operation, and several other things that get very wordy when written down. The pilot and copilot just *do* these things, and use the after-start checklist to *check* that they have been done, not to tell them how to do it in the first place.
 
 The design ideals at this moment are to create checklist files that are:
 * Sized such that they fit on Avitab with no zooming or panning required
